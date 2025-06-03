@@ -1,1 +1,2 @@
-"print('App is running')" 
+
+print('App is running')
