@@ -1,0 +1,2 @@
+
+print('App is running')
